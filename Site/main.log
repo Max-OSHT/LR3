@@ -1,0 +1,126 @@
+Watching for file changes with StatReloader
+D:\STUDY\ZIS\LR2\test\Site\Site\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\STUDY\ZIS\LR2\test\Site\Site\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\STUDY\ZIS\LR2\test\Site\Site\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\STUDY\ZIS\LR2\test\Site\Site\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\STUDY\ZIS\LR2\test\Site\Site\settings.py changed, reloading.
+Watching for file changes with StatReloader
+INFO 2024-05-01 00:03:14,130 autoreload 15016 7492 Watching for file changes with StatReloader
+2024-05-01 00:04:09,599 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:04:35,468 - WARNING - log - log.py - Method Not Allowed: /log/
+2024-05-01 00:04:35,469 - WARNING - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 405 3981
+2024-05-01 00:04:39,203 - WARNING - log - log.py - Method Not Allowed: /log/
+2024-05-01 00:04:39,204 - WARNING - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 405 3981
+2024-05-01 00:04:39,644 - WARNING - log - log.py - Method Not Allowed: /log/
+2024-05-01 00:04:39,645 - WARNING - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 405 3981
+2024-05-01 00:04:39,819 - WARNING - log - log.py - Method Not Allowed: /log/
+2024-05-01 00:04:39,820 - WARNING - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 405 3981
+2024-05-01 00:04:40,002 - WARNING - log - log.py - Method Not Allowed: /log/
+2024-05-01 00:04:40,002 - WARNING - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 405 3981
+2024-05-01 00:04:57,240 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:04:57,768 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:05:00,169 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:05:00,674 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:05:01,988 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:05:02,479 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:05:13,327 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:05:13,830 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:05:17,258 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:05:17,761 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:06:15,853 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:06:16,372 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:06:18,870 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:06:19,394 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:06:26,129 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:06:26,643 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:06:31,151 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:06:31,640 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:06:36,251 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:06:36,765 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:06:44,575 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:06:45,103 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:06:47,623 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:06:48,137 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:06:51,683 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:06:52,213 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:06:54,704 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:06:55,241 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:07:16,837 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\Site\urls.py changed, reloading.
+2024-05-01 00:07:17,357 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:07:21,626 - INFO - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 200 5165
+2024-05-01 00:07:55,404 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\urls\authtoken.py changed, reloading.
+2024-05-01 00:07:55,968 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:07:58,742 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\urls\authtoken.py changed, reloading.
+2024-05-01 00:07:59,267 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:08:30,763 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:08:31,318 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:08:52,195 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:08:52,731 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:08:56,555 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:08:57,094 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:09:00,950 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:09:01,500 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:09:07,430 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:09:07,986 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:09:09,658 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:09:10,183 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:09:11,634 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:09:12,150 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:09:13,808 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:09:14,310 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:09:20,216 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:09:20,740 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:09:22,421 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:09:22,957 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:09:24,624 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:09:25,142 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:09:56,619 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:09:57,147 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:10:02,008 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:10:02,531 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:13:40,344 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\.venv\Lib\site-packages\djoser\views.py changed, reloading.
+2024-05-01 00:13:40,928 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:13:54,354 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:13:54,911 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:14:05,109 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:14:05,641 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:14:08,397 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:14:08,937 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:14:14,329 - INFO - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 200 5165
+2024-05-01 00:14:16,726 - INFO - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 200 5165
+2024-05-01 00:14:22,515 - WARNING - log - log.py - Method Not Allowed: /login/
+2024-05-01 00:14:22,515 - WARNING - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 405 7566
+2024-05-01 00:15:15,493 - INFO - views - views.py - create token
+2024-05-01 00:15:15,498 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 200 7355
+2024-05-01 00:17:37,071 - WARNING - log - log.py - Unauthorized: /logout/
+2024-05-01 00:17:37,072 - WARNING - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 401 3825
+2024-05-01 00:17:40,286 - WARNING - log - log.py - Unauthorized: /logout/
+2024-05-01 00:17:40,287 - WARNING - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 401 3825
+2024-05-01 00:17:56,576 - WARNING - log - log.py - Method Not Allowed: /login/
+2024-05-01 00:17:56,577 - WARNING - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 405 7566
+2024-05-01 00:18:21,030 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\views.py changed, reloading.
+2024-05-01 00:18:21,573 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-01 00:18:28,966 - WARNING - log - log.py - Not Found: /token/log
+2024-05-01 00:18:28,966 - WARNING - basehttp - basehttp.py - "GET /token/log HTTP/1.1" 404 7558
+2024-05-01 00:18:43,688 - INFO - basehttp - basehttp.py - "GET /log HTTP/1.1" 301 0
+2024-05-01 00:18:43,694 - WARNING - log - log.py - Unauthorized: /log/
+2024-05-01 00:18:43,694 - WARNING - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 401 58
+2024-05-01 00:18:52,475 - INFO - basehttp - basehttp.py - "GET /log HTTP/1.1" 301 0
+2024-05-01 00:18:52,484 - INFO - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 200 10
+2024-05-01 00:19:11,361 - WARNING - log - log.py - Unauthorized: /logout
+2024-05-01 00:19:11,361 - WARNING - basehttp - basehttp.py - "POST /logout HTTP/1.1" 401 58
+2024-05-01 00:19:15,250 - WARNING - views - views.py - destroy token
+2024-05-01 00:19:15,256 - INFO - basehttp - basehttp.py - "POST /logout HTTP/1.1" 204 0
+2024-05-01 00:19:26,555 - INFO - basehttp - basehttp.py - "GET /log HTTP/1.1" 301 0
+2024-05-01 00:19:26,567 - WARNING - log - log.py - Unauthorized: /log/
+2024-05-01 00:19:26,568 - WARNING - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 401 27
+2024-05-01 00:19:31,030 - INFO - basehttp - basehttp.py - "GET /log HTTP/1.1" 301 0
+2024-05-01 00:19:31,034 - WARNING - log - log.py - Unauthorized: /log/
+2024-05-01 00:19:31,034 - WARNING - basehttp - basehttp.py - "GET /log/ HTTP/1.1" 401 58
+2024-05-02 00:29:27,546 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-02 00:32:50,223 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2024-05-02 00:35:33,714 - INFO - autoreload - autoreload.py - D:\STUDY\ZIS\LR2\test\Site\back\migrations\0001_initial.py changed, reloading.
